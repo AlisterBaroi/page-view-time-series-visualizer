@@ -1,4 +1,4 @@
-# Page View Time Series Visualizer
+# Page View Time Series Visualizer (freeCodeCamp Assignment)
 Demo: [Replit](https://replit.com/@AlisterBaroi/boilerplate-page-view-time-series-visualizer) [Colab](https://colab.research.google.com/github/AlisterBaroi/page-view-time-series-visualizer/blob/main/Colab%20Demo/page_view_time_series_visualizer_(freeCodeCamp_Assignment).ipynb)
 ### Assignment
 
